@@ -1,4 +1,4 @@
-## N-Queen Algorithm GUI [Python Project For Beginners]
+## N-Queen Algorithm GUI
 
 The Script is written in `python` and for gui part `tkinter` is used.
 
