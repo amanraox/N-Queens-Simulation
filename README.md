@@ -13,7 +13,7 @@ The Script is written in `python` and for gui part `tkinter` is used.
 
 ```bash
 $ git clone https://github.com/amanraox/N-Queens-Simulation.git
-$ cd N-QueenGUI
+$ cd N-Queens-Simulation
 $ python LPSK.py
 $ Enter no. of Queens you want to place:
 ```
